@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import './app.scss';
 import { connect } from 'react-redux';
 import {
